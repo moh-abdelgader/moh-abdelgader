@@ -17,4 +17,6 @@
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Jquery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+[![GitHub Streak](https://streak-stats.demolab.com?user=moh-abdelgader&theme=windows-dark)](https://git.io/streak-stats)
+![Henry's GitHub stats](https://github-readme-stats.vercel.app/api?username=moh-abdelgader&show_icons=true&theme=transparent)
 
