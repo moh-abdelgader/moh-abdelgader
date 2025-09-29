@@ -19,4 +19,11 @@
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 [![GitHub Streak](https://streak-stats.demolab.com?user=moh-abdelgader&theme=windows-dark)](https://git.io/streak-stats)
 ![Henry's GitHub stats](https://github-readme-stats.vercel.app/api?username=moh-abdelgader&show_icons=true&theme=transparent)
+<p align="center">
+    <a href="https://www.linkedin.com/in/Eng-Mohammed Hassan" target="_blank"><img alt="LinkedIn" width="25px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg"></a>
+    <a href="https://www.facebook.com/Eng-Mohammed Hassan" target="_blank"><img alt="Facebook" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg"></a>
+    <a href="mailto:m.h.abdelgader@gmail.com" target="_blank"><img alt="Gmail" width="25px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg"></a> 
+</p>
+
+
 
